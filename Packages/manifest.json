@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+      "com.unity.audio.dspgraph": "0.1.0-preview.11"
+  }
+}
